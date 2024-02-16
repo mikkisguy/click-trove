@@ -1,5 +1,6 @@
 # Click Trove
 
-Modular game engine for idle clicker game.
+Modular base for idle clicker game.
 
 - [Remix Docs](https://remix.run/docs)
+
