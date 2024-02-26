@@ -9,6 +9,7 @@ import {
   ScrollRestoration,
 } from "@remix-run/react";
 import "./shared/styles/reset.css";
+import "./configs/fonts.css";
 import "./configs/colors.css";
 import "./shared/styles/global.css";
 

@@ -12,7 +12,10 @@ export const meta: MetaFunction = () => {
 
 export default function Index() {
   return (
-    <div>
+    <div id="main-container">
+      <p className="primary">Primary font</p>
+      <p className="secondary">Secondary font</p>
+      <p className="tertiary">Tertiary font</p>
     </div>
   );
 }

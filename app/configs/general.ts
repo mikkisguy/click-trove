@@ -1,4 +1,4 @@
-import { GeneralConfigs } from "../types/configs";
+import { GeneralConfigs } from "../shared/types/configs";
 
 export const GENERAL_CONFIG: GeneralConfigs = {
   gameTitle: "Click Trove",

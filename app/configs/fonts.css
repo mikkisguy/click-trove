@@ -1,0 +1,22 @@
+/*
+  Primary, secondary and tertiary fonts
+  - via Google Fonts
+*/
+@import url("https://fonts.googleapis.com/css2?family=Fragment+Mono:ital@0;1&family=Josefin+Sans:ital,wght@0,100..700;1,100..700&family=Raleway:ital,wght@0,100..900;1,100..900&display=swap");
+
+:root {
+  --primary-font-family: "Josefin Sans", sans-serif;
+  --primary-font-size: 1.8rem;
+  --primary-font-weight: 400;
+  --primary-font-color: white;
+
+  --secondary-font-family: "Raleway", sans-serif;
+  --secondary-font-size: 1.2rem;
+  --secondary-font-weight: 400;
+  --secondary-font-color: white;
+
+  --tertiary-font-family: "Fragment Mono", monospace;
+  --tertiary-font-size: 0.8rem;
+  --tertiary-font-weight: 400;
+  --tertiary-font-color: white;
+}
