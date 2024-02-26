@@ -9,7 +9,7 @@ import {
   ScrollRestoration,
 } from "@remix-run/react";
 import "./shared/styles/reset.css";
-import "./shared/configs/colors.css";
+import "./configs/colors.css";
 import "./shared/styles/global.css";
 
 export const links: LinksFunction = () => [

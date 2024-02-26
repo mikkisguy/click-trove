@@ -1,5 +1,5 @@
 import type { MetaFunction } from "@remix-run/node";
-import { GENERAL_CONFIG } from "../shared/configs/general";
+import { GENERAL_CONFIG } from "../configs/general";
 
 export const meta: MetaFunction = () => {
   const { gameTitle, gameDescription } = GENERAL_CONFIG;
